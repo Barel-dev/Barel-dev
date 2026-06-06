@@ -9,7 +9,7 @@
 <p align="center">
   📍 Sderot, Israel
   &nbsp;·&nbsp;
-  🎓 B.Sc. Computer Science — Sapir Academic College (2027)
+  🎓 B.Sc. Computer Science at Sapir Academic College (2027)
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ### 👨‍💻 About me
 
-I'm a Computer Science student at **Sapir Academic College**, leaning hard into **backend** and **full-stack** work. I'm also a **day trader**, so most of what I build sits where **finance, data, and AI** meet — and I like shipping things that actually work end-to-end, from the data layer to a deployed UI.
+I'm a Computer Science student at **Sapir Academic College**, leaning hard into **backend** and **full-stack** work. I'm also a **day trader**, so most of what I build sits where **finance, data, and AI** meet. I like shipping things that actually work end to end, from the data layer to a deployed UI.
 
 - 🤖 Lately building **multi-agent AI products** and **real-time data systems**.
 - 🧪 Big on clean code, real-world architecture, and tests that mean something.
@@ -69,39 +69,39 @@ I'm a Computer Science student at **Sapir Academic College**, leaning hard into 
 
 ### 🚀 Featured Projects
 
-#### 📈 [Stockify](https://github.com/Barel-dev/Stockify) — Real-Time Market Intelligence &nbsp;·&nbsp; [**Live Demo →**](https://stockifyy.vercel.app/)
+#### 📈 [Stockify](https://github.com/Barel-dev/Stockify): Real-Time Market Intelligence &nbsp;·&nbsp; [**Live Demo →**](https://stockifyy.vercel.app/)
 
-A full-stack dashboard that breaks down any **stock, crypto, or forex** asset in seconds — live quotes, technicals, fundamentals, news, AI analysis, and strategy backtesting.
+A full-stack dashboard that breaks down any **stock, crypto, or forex** asset in seconds: live quotes, technicals, fundamentals, news, AI analysis, and strategy backtesting.
 
-- ⚡ **Real-time price layer** over a **WebSocket** feed (Finnhub) plus a **Server-Sent Events** market stream — no client-side polling.
+- ⚡ **Real-time price layer** over a **WebSocket** feed (Finnhub) plus a **Server-Sent Events** market stream, with no client-side polling.
 - 🧪 **Backtesting engine** for **RSI, SMA crossover, and MACD** strategies, computing **Sharpe ratio, max drawdown, and win rate** with equity curves.
 - 🤖 AI **bull/bear thesis** generation via **Claude**, grounded in live quotes and news.
 - 🗺️ Sector **heatmap** and a **portfolio tracker** benchmarked against the S&P 500.
-- 🧱 Tiered **Redis caching** with graceful fallback to stay within API rate limits — backed by **62 tests** and shipped as an installable **PWA**.
+- 🧱 Tiered **Redis caching** with graceful fallback to stay within API rate limits. Backed by **62 tests** and shipped as an installable **PWA**.
 
 `Next.js 15` · `React 19` · `TypeScript` · `Tailwind` · `Clerk` · `Supabase` · `Upstash Redis` · `Claude`
 
-#### 🤖 [TaskAgent](https://github.com/Barel-dev/Taskagent) — AI Multi-Agent Task Manager &nbsp;·&nbsp; [**Live Demo →**](https://taskagent-amber.vercel.app)
+#### 🤖 [TaskAgent](https://github.com/Barel-dev/Taskagent): AI Multi-Agent Task Manager &nbsp;·&nbsp; [**Live Demo →**](https://taskagent-amber.vercel.app)
 
-A task manager where specialized agents don't just organize your work — they **do** it. Describe a goal, and the agents plan it, break it into steps, and **search the live web to actually carry tasks out**.
+A task manager where specialized agents don't just organize your work, they **do** it. Describe a goal, and the agents plan it, break it into steps, and **search the live web to actually carry tasks out**.
 
 - 🧠 A suite of **specialized Gemini agents**: Plan, Breakdown, **Do-it** (executes via live Google Search grounding), Prioritizer, Daily Briefing, Summary, plus **Email** and **Schedule**.
-- 📧 **Gmail & Google Calendar** integration — agents draft emails and propose calendar slots, then act **only after you approve** (no auto-send).
-- 🗂️ Three workspace views — **list**, drag-and-drop **Kanban**, and a **calendar** — with tags, smart due-dates, filtering, and a chat assistant.
+- 📧 **Gmail & Google Calendar** integration: agents draft emails and propose calendar slots, then act **only after you approve** (no auto-send).
+- 🗂️ Three workspace views (**list**, drag-and-drop **Kanban**, and a **calendar**) with tags, smart due-dates, filtering, and a chat assistant.
 - 🔒 Google **OAuth (NextAuth v5)**, a fully-typed REST API with per-user authorization, structured **Gemini + Zod** output, and DB-backed rate limiting.
 - ✅ **Test-driven** against a real Postgres branch (no mocks), verifying cross-user data isolation.
 
 `Next.js 15` · `TypeScript` · `Prisma` · `PostgreSQL (Neon)` · `NextAuth v5` · `Google Gemini` · `Vitest`
 
-#### 📓 TradeJournal — TradeZella-Style Trading Journal &nbsp;·&nbsp; ![Private](https://img.shields.io/badge/repo-private-6e7681?style=flat-square)
+#### 📓 TradeJournal: TradeZella-Style Trading Journal &nbsp;·&nbsp; ![Private](https://img.shields.io/badge/repo-private-6e7681?style=flat-square)
 
-A day-trader's journal & analytics platform I built for my own trading — *private repo, available on request.*
+A day trader's journal & analytics platform I built for my own trading. *Private repo, available on request.*
 
 - 📥 **CSV import** (auto-maps broker headers and FIFO-matches fills into round-trips) plus **Alpaca** broker sync and manual entry.
 - 📊 Dashboard with **equity curve**, a **performance / Zella-style score radar**, win/loss breakdown, and a P&L **calendar**.
 - 📒 **Daily journal**, **playbooks** (strategies auto-linked to trades), a **progress tracker** with goals & streaks, and **trade replay**.
-- 📈 Deep **reports** — weekday × hour heatmaps, R-multiple distribution, setup/symbol analysis, and period-over-period comparison.
-- ⌨️ Position sizer, ⌘K command palette, global filters, and light/dark theme — runs zero-setup locally or on **Supabase**.
+- 📈 Deep **reports**: weekday × hour heatmaps, R-multiple distribution, setup/symbol analysis, and period-over-period comparison.
+- ⌨️ Position sizer, ⌘K command palette, global filters, and light/dark theme. Runs zero-setup locally or on **Supabase**.
 
 `Next.js 15` · `React 19` · `TypeScript` · `Tailwind` · `Recharts` · `SWR` · `Supabase` · `Lightweight Charts`
 
@@ -117,4 +117,4 @@ A day-trader's journal & analytics platform I built for my own trading — *priv
 - Production-quality **Java backend** patterns (Spring Boot, virtual threads).
 - Trade-offs in real-time systems: **WebSocket vs SSE vs polling**, caching strategies, and rate limiting.
 
-<p align="center"><i>💬 Open to Junior Backend / Software Engineering roles — let's build something.</i></p>
+<p align="center"><i>💬 Open to Junior Backend / Software Engineering roles. Let's build something.</i></p>
