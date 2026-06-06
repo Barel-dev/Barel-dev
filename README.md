@@ -19,20 +19,15 @@
   <a href="mailto:barel57000@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Barel-dev&style=flat-square&color=10b981&label=Profile+views" alt="Profile views" />
 </p>
-
----
 
 ### 👨‍💻 About me
 
-- 🎓 Computer Science student at **Sapir Academic College**, focused on **backend engineering** and **full-stack development**.
-- 🛠️ I care about clean code, real-world architecture, and shipping things that actually work **end-to-end** — from data layer to deployed UI.
-- 📈 I'm a **day trader**, which is why most of what I build lives at the intersection of **finance, data, and AI**.
-- 🤖 Lately I've been building **multi-agent AI products** and **real-time data systems**.
-- 💼 **Open to Junior Backend / Software Engineering roles.**
+I'm a Computer Science student at **Sapir Academic College**, leaning hard into **backend** and **full-stack** work. I'm also a **day trader**, so most of what I build sits where **finance, data, and AI** meet — and I like shipping things that actually work end-to-end, from the data layer to a deployed UI.
 
----
+- 🤖 Lately building **multi-agent AI products** and **real-time data systems**.
+- 🧪 Big on clean code, real-world architecture, and tests that mean something.
+- 💼 **Open to Junior Backend / Software Engineering roles.**
 
 ### 🛠️ Tech I work with
 
@@ -72,11 +67,9 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
 ### 🚀 Featured Projects
 
-#### 📈 [Stockify](https://github.com/Barel-dev/Stockify) — Real-Time Market Intelligence
+#### 📈 [Stockify](https://github.com/Barel-dev/Stockify) — Real-Time Market Intelligence &nbsp;·&nbsp; [**Live Demo →**](https://stockifyy.vercel.app/)
 
 A full-stack dashboard that breaks down any **stock, crypto, or forex** asset in seconds — live quotes, technicals, fundamentals, news, AI analysis, and strategy backtesting.
 
@@ -112,27 +105,16 @@ A day-trader's journal & analytics platform I built for my own trading — *priv
 
 `Next.js 15` · `React 19` · `TypeScript` · `Tailwind` · `Recharts` · `SWR` · `Supabase` · `Lightweight Charts`
 
----
-
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Barel-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=10b981&icon_color=10b981&text_color=8b949e&bg_color=00000000" alt="Barel's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barel-dev&layout=compact&langs_count=8&hide_border=true&title_color=10b981&text_color=8b949e&bg_color=00000000" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Barel-dev&hide_border=true&background=00000000&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=768390" alt="GitHub Streak" />
 </p>
-
----
 
 ### 🌱 Currently learning
 
 - Designing **distributed systems** with PostgreSQL as the primary datastore.
 - Production-quality **Java backend** patterns (Spring Boot, virtual threads).
 - Trade-offs in real-time systems: **WebSocket vs SSE vs polling**, caching strategies, and rate limiting.
-
----
 
 <p align="center"><i>💬 Open to Junior Backend / Software Engineering roles — let's build something.</i></p>
